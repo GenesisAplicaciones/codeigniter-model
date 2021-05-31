@@ -1,13 +1,13 @@
 {
-    "name": "yidas/codeigniter-model",
-    "description": "CodeIgniter 3 ORM Base Model pattern with My_model example",
+    "name": "genesisaplicaciones/codeigniter-model",
+    "description": "Fork of yidas/codeigniter-model with custom modifications.",
     "keywords": ["codeIgniter", "model", "base model", "my_model"],
-    "homepage": "https://github.com/yidas/codeigniter-model",
+    "homepage": "https://github.com/GenesisAplicaciones/codeigniter-model",
     "type": "library",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/yidas/codeigniter-model/issues",
-        "source": "https://github.com/yidas/codeigniter-model"
+        "issues": "https://github.com/GenesisAplicaciones/codeigniter-model/issues",
+        "source": "https://github.com/GenesisAplicaciones/codeigniter-model"
     },
     "minimum-stability": "stable",
     "require": {
